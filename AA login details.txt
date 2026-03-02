@@ -1,0 +1,6 @@
+Login:
+--------------------------------
+ControlRoom: http://rpa-a360-v29.centralindia.cloudapp.azure.com
+
+Username: the user id you used to login to this VM (e.g. 99887771)
+Password: DO NOT USE VM PASSWORD, here your username is also your password (e.g. 99887771)
